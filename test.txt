@@ -1,1 +1,7 @@
 Created manually through windows explorer, for testing purposes. Will be uploaded to repo using git commands.
+
+git add <file>
+
+git commit -m "commit name" <file>
+
+git push -u origin master
